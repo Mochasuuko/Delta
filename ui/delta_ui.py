@@ -1,5 +1,5 @@
 import sys
-from ui.delta_engine import analyze_scenario
+from delta_engine import analyze_scenario
 from PyQt6.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QTextEdit,
     QLineEdit, QLabel, QProgressBar
@@ -7,7 +7,7 @@ from PyQt6.QtWidgets import (
 from PyQt6.QtGui import QFont, QMovie
 from PyQt6.QtCore import Qt, QTimer
 
-from ui.chat import chat_with_delta
+from chat import chat_with_delta
 
 
 class DeltaUI(QWidget):
