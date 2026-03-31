@@ -1,4 +1,4 @@
-from chat import chat_with_delta
+from ui.chat import chat_with_delta
 
 print("Delta is Online. Type 'exit' to quit.\n")
 
