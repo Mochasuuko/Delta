@@ -1,4 +1,4 @@
-# Delta (v0.1.0)
+# Delta (v0.2.0)
 
 Delta is a personal AI assistant focused on:
 
@@ -6,11 +6,11 @@ Delta is a personal AI assistant focused on:
 - logic
 - situational problem solving
 
-Features:
+Features (updated):
 - conversational AI
 - persistent memory (last 10 lines)
-- simple GUI interface
-
+- updated GUI interface
+- --> probability bars, recommendation, scenario running
 ## Setup
 
 1. Install requirements
